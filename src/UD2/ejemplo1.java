@@ -10,7 +10,8 @@ public class ejemplo1 {
 			}
 			i++;
 		}while(i<100);
-		System.out.println("hasta luego");
+		System.out.println("hasta pronto");
+		System.out.println("Espero volver a verte")
 	}
 
 }
